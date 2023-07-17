@@ -300,7 +300,7 @@ li {
     color: red;
 }
 .fixed-img{
-    background-image: url(/images/img.webp);
+    background-image: url(./images/img.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -415,7 +415,7 @@ li {
     position: relative;
 }
 .scroll-icon , .scroll-iconn{
-    background-image: url(/images/dilv.jpg);
+    background-image: url(./images/dilv.jpg);
     background-size:400px;
     background-position: center -60px ;
     width: 150px;
@@ -550,7 +550,7 @@ li {
 }
 /* section 8 */
 .sec8{
-    background-image: url(/images/jeweler03.jpg);
+    background-image: url(./images/jeweler03.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
